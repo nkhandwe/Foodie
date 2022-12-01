@@ -1,4 +1,4 @@
-package com.foodie.customer
+package com.Foodie.Customer
 
 import io.flutter.embedding.android.FlutterActivity
 
