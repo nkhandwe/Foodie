@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>891465571233-ujg6kra5n6qoc73rch1s6fu3g10pe997.apps.googleusercontent.com</string>
+	<string>891465571233-rlr5cbu6o5acmkfdl5jf7rkrpl4m09bp.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.891465571233-ujg6kra5n6qoc73rch1s6fu3g10pe997</string>
+	<string>com.googleusercontent.apps.891465571233-rlr5cbu6o5acmkfdl5jf7rkrpl4m09bp</string>
 	<key>API_KEY</key>
 	<string>AIzaSyDGcPIOFOnR7EbF9buu31_inHGstdm3ueU</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.Foodie.Customer</string>
+	<string>com.foodie.tanzania</string>
 	<key>PROJECT_ID</key>
 	<string>foodietanzania-40be3</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:891465571233:ios:2578b1a5892bd27ab749e0</string>
+	<string>1:891465571233:ios:d6f00202782fbedab749e0</string>
 </dict>
 </plist>
